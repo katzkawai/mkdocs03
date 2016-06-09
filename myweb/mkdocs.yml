@@ -12,4 +12,5 @@ pages:
 - ホーム: index.md
 - 本サイトについて: about.md
 - 自己紹介: profile.md
+- ハロー: hello.md
 - 'サンプル': 'samples/index.md'
