@@ -21,6 +21,21 @@
             "title": "\u672c\u30b5\u30a4\u30c8\u306b\u3064\u3044\u3066"
         }, 
         {
+            "location": "/profile/", 
+            "text": "\u81ea\u5df1\u7d39\u4ecb\u306e\u30da\u30fc\u30b8\n\n\n\u597d\u7269\u4e00\u89a7\n\n\n\n\n\u3046\u306a\u304e\n\n\n\u304b\u307c\u3061\u3083", 
+            "title": "\u81ea\u5df1\u7d39\u4ecb"
+        }, 
+        {
+            "location": "/profile/#_1", 
+            "text": "", 
+            "title": "\u81ea\u5df1\u7d39\u4ecb\u306e\u30da\u30fc\u30b8"
+        }, 
+        {
+            "location": "/profile/#_2", 
+            "text": "\u3046\u306a\u304e  \u304b\u307c\u3061\u3083", 
+            "title": "\u597d\u7269\u4e00\u89a7"
+        }, 
+        {
             "location": "/samples/", 
             "text": "Google Charts\n\n\n\u30b5\u30f3\u30d7\u30eb", 
             "title": "\u30b5\u30f3\u30d7\u30eb"
