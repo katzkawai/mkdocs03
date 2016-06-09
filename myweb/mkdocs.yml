@@ -11,4 +11,5 @@ markdown_extensions: []
 pages:
 - ホーム: index.md
 - 本サイトについて: about.md
+- 自己紹介: profile.md
 - 'サンプル': 'samples/index.md'
