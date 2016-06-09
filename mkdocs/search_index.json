@@ -36,6 +36,16 @@
             "title": "\u597d\u7269\u4e00\u89a7"
         }, 
         {
+            "location": "/hello/", 
+            "text": "\u3053\u3093\u306b\u3061\u306f\u4e16\u754c\n\n\n\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u3067\u3059\u3002\n- \u30ea\u30b9\u30c8\n- \u30ea\u30b9\u30c8\n- \u30ea\u30b9\u30c8", 
+            "title": "\u30cf\u30ed\u30fc"
+        }, 
+        {
+            "location": "/hello/#_1", 
+            "text": "\u3053\u308c\u306f\u30b5\u30f3\u30d7\u30eb\u3067\u3059\u3002\n- \u30ea\u30b9\u30c8\n- \u30ea\u30b9\u30c8\n- \u30ea\u30b9\u30c8", 
+            "title": "\u3053\u3093\u306b\u3061\u306f\u4e16\u754c"
+        }, 
+        {
             "location": "/samples/", 
             "text": "Google Charts\n\n\n\u30b5\u30f3\u30d7\u30eb", 
             "title": "\u30b5\u30f3\u30d7\u30eb"

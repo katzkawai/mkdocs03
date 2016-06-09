@@ -27,6 +27,14 @@
 
     
     <url>
+     <loc>http://katzkawai.github.io/mkdocs03//hello/</loc>
+     <lastmod>2016-06-09</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+    
+
+    
+    <url>
      <loc>http://katzkawai.github.io/mkdocs03//samples/</loc>
      <lastmod>2016-06-09</lastmod>
      <changefreq>daily</changefreq>
